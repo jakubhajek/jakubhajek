@@ -1,4 +1,4 @@
-### Hi there 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&pause=1000&color=33FF33+&width=435&lines=Hi+there,+my+name+is+Jakub+Hajek)](https://git.io/typing-svg)
 
 <!--
 **jakubhajek/jakubhajek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
